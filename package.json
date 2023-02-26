@@ -1,0 +1,29 @@
+{
+  "name": "dbmovie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanh28111995/DBMovie.git"
+  },
+  "keywords": [
+    "hanhtran",
+    "DBMovie"
+  ],
+  "author": "hanhtran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanh28111995/DBMovie/issues"
+  },
+  "homepage": "https://github.com/Hanh28111995/DBMovie#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
